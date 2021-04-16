@@ -53,7 +53,7 @@ Some times you need to blah blah and blah blah regardless of blah blah blah
 You should never forget to blah blah
 {{< /hint >}}
 
-I really don't know man...
+I really don't know man... let me try something else..:
 {{< katex >}}
 \sum_{i=1}^{10}a_i^2 
 {{< /katex >}}
