@@ -6,4 +6,3 @@ bookCollapseSection: true
 
 Look at me:
 
-{{<section>}}
