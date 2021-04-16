@@ -1,0 +1,22 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Competitive Programming Docs"
+theme = "book"
+defaultContentLangauge = "en"
+
+[languages]
+    [languages.en]
+        languageName = 'English'
+        title = "Competitive Programming Docs"
+        contentDir = 'content/english'
+        weight = 1
+    [languages.tr]
+        languageName = 'Türkçe'
+        title = "Bilgisayar Olimpiyatları Docs"
+        contentDir = 'content/turkish'
+        weight = 2
+
+
+[params]
+   # BookMenuBundle = '/menu'
+   BookSection = '*'
