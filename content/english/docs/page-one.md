@@ -16,11 +16,8 @@ This is some content
 
 {{< columns >}}
 # Left Content
-there is some content I really would lke to ask you something
-Why aer you so stupid?
 
-Today I went ahead and finally did it. Nothing can stop me anymore
-
+Here is some content. Lorem ipsum dolor sit amet
 <--->
 
 # Mid Content
