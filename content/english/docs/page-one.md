@@ -90,7 +90,7 @@ This is the Linux content
 {{< /tabs >}}
 
 
-[homework](/something.pdf)
+[homework](/competitive-programming-docs/something.pdf)
 
 
 [link to second page](/competitive-programming-docs/docs/page-two)  
