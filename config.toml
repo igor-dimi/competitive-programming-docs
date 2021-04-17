@@ -1,4 +1,4 @@
-baseURL = "http://igor-dimi.github.io/competitive-programming-docs"
+baseURL = "http://igor-dimi.github.io"
 languageCode = "en-us"
 title = "Competitive Programming Docs"
 theme = "book"

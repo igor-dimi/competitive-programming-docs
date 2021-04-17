@@ -93,7 +93,8 @@ This is the Linux content
 [homework](/something.pdf)
 
 
-[link to second page](/docs/page-two)  
+[link to second page]()  
+
 <https://www.wikipedia.org>
 
 
