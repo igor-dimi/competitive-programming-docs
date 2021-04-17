@@ -1,0 +1,1 @@
+'use strict';(function(){const a={cache:!0};a.doc={id:'id',field:['title','content'],store:['title','href','section']};const b=FlexSearch.create('balance',a);window.bookSearchIndex=b,b.add({id:0,href:'/competitive-programming-docs/',title:"Index",section:"Competitive Programming Docs",content:"Hello World!\n"})})()
