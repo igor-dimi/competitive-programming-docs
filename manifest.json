@@ -1,14 +1,14 @@
 {
   "name": "Competitive Programming Docs",
   "short_name": "Competitive Programming Docs",
-  "start_url": "/competitive-programming-docs/",
-  "scope": "/competitive-programming-docs/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/competitive-programming-docs/favicon.svg",
+      "src": "/favicon.svg",
       "sizes": "512x512"
     }
   ]
