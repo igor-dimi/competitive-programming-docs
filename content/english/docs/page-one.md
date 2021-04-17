@@ -93,7 +93,7 @@ This is the Linux content
 [homework](/something.pdf)
 
 
-[link to second page]()  
+[link to second page](/competitive-programming-docs/docs/page-two)  
 
 <https://www.wikipedia.org>
 
