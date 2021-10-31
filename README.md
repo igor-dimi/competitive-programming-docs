@@ -1,4 +1,4 @@
 
 # this is a README
 
-(link)[https://igor-dimi.github.io/competitive-programming-docs/]
+[link]tps://igor-dimi.github.io/competitive-programming-docs/)
